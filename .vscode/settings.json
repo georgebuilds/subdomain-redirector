@@ -1,0 +1,8 @@
+{
+    "emmet.triggerExpansionOnTab": true, 
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [120],
+    "intelephense.format.braces":"k&r",
+    "intelephense.environment.documentRoot":"public",
+}
